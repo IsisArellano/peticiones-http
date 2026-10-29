@@ -275,3 +275,4 @@
         @endif
     </body>
 </html>
+<!-- Layout principal de la práctica de peticiones HTTP -->
