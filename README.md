@@ -64,3 +64,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Funcionalidades
+
+- Listado de productos.
+- Registro de nuevos productos mediante POST.
+- Edición de productos mediante PUT.
+- Eliminación de productos mediante DELETE con confirmación.
+- Búsqueda y filtros de productos.
+- Validación de formularios y mensajes de confirmación.
+- Interfaz adaptable a diferentes tamaños de pantalla.
+
+## Tecnologías utilizadas
+
+- Laravel 12
+- PHP
+- Bootstrap 5
+- Vite
+- HTML y CSS
